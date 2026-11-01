@@ -1,12 +1,6 @@
 # Hi, I'm Thinh Ha 👋
 
-**Freshman at Florida State University** · Statistics + Computational Science · building AI that runs in the real world — on the edge, in the field, and for people who need it most.
-
-- 🛰️ Undergraduate researcher at **FSU COAPS** — building a visualization system for OSCAT3 & HY-2B satellite wind-vector data
-- 🥈 **Silver medal, USA AI Olympiad**
-- 🧪 **MIT Beaver Works (BWSI)** alum — remote sensing for disaster response; led the OmniVox assistive-tech team
-- 🏆 Hackathons: KnightHacks (Waymaker) · next stop: TreeHacks
-
+**Freshman at Florida State University**
 ---
 
 ## 🚀 Featured projects
