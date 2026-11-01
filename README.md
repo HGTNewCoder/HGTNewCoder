@@ -21,10 +21,10 @@
 
 ## 🛠️ Toolbox
 
-**Languages:** Python · C++ · Java · TypeScript
-**AI / ML:** PyTorch · scikit-learn · Hugging Face · LangChain · OpenCV · TensorRT
-**Web & Cloud:** Next.js · React · FastAPI · Flask · GCP (Vertex AI) · Azure AI Foundry
-**Hardware:** NVIDIA Jetson · Raspberry Pi
+- **Languages:** Python, C++, Java
+- **AI / ML:** PyTorch, scikit-learn, Hugging Face, LangChain, OpenCV, TensorRT
+- **Web & Cloud:** GCP (Vertex AI), Azure AI Foundry
+- **Hardware:** NVIDIA Jetson, Raspberry Pi
 
 ## 📈 Currently
 
