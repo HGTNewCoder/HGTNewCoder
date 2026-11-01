@@ -17,7 +17,6 @@
 | [**MCAgent**](https://github.com/HGTNewCoder/MCAgent) · [live demo](https://mc-agent-ecru.vercel.app/) | Two-agent LLM system that manages a Minecraft server: a Plugin Manager proposes changes, a Verifier checks them, and a deterministic orchestrator rolls back on failure. | Python · FastAPI · DeepSeek · React · Vite |
 | [**Deforestation Detection**](https://github.com/HGTNewCoder/deforest_detection) | Semantic segmentation of illegal logging in Sentinel-1 SAR imagery of Central Kalimantan, Indonesia (F1 0.656, IoU 0.488). Published research from MIT BWSI. | PyTorch · DeepLabV3 · U-Net · EfficientNet-B4 |
 | [**OmniVox**](https://github.com/HGTNewCoder/OmniVox) | Augmentative & alternative communication device for a patient with a speech impairment. Team lead; secured a $500 grant. | Raspberry Pi 5 · PyQt6 · Python |
-| [**Murmur**](https://github.com/HGTNewCoder/fakeChatGPT) | Full-stack AI chat app with streaming replies, image generation and auth. | Next.js · TypeScript · MongoDB · DeepSeek · FLUX.2 |
 | [**LiveHealthy**](https://github.com/HGTNewCoder/LiveHealthy) · [live](https://nutrition-llms.onrender.com/) | LLM-powered health & nutrition assistant with a hospital-finder map. | Flask · Vertex AI · Google Maps |
 
 ## 🛠️ Toolbox
