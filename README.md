@@ -8,12 +8,13 @@
 
 | Project | What it does | Stack | Live demo |
 |---|---|---|---|
-| [**Waymaker**](https://github.com/BeCarful/navigator-private) | Wearable AI guide for blind & low-vision walkers. Runs on-device; I used TensorRT to cut inference latency **200 ms → 40 ms**. Built at KnightHacks. | Jetson Orin Nano · TensorRT · PyTorch | — |
-| [**MCAgent**](https://github.com/HGTNewCoder/MCAgent) | Two-agent LLM system that manages a Minecraft server: a Plugin Manager proposes changes, a Verifier checks them, and a deterministic orchestrator rolls back on failure. | Python · FastAPI | [Try it](https://mc-agent-ecru.vercel.app/) |
-| [**Deforestation Detection**](https://github.com/HGTNewCoder/deforest_detection) | Semantic segmentation of illegal logging in Sentinel-1 SAR imagery of Central Kalimantan, Indonesia (F1 0.656, IoU 0.488). Published research from MIT BWSI. | PyTorch · DeepLabV3 · U-Net · EfficientNet-B4 | — |
-| [**OmniVox**](https://github.com/HGTNewCoder/OmniVox) | Augmentative & alternative communication device for a patient with a speech impairment. Team lead; secured a $500 grant. | Raspberry Pi 5 · PyQt6 · Python | [Try it](https://omnivox-chi.vercel.app/) |
-| [**LiveHealthy**](https://github.com/HGTNewCoder/LiveHealthy) | LLM-powered health & nutrition assistant with a hospital-finder map. | Flask · Vertex AI · Google Maps | [Try it](https://nutrition-llms.onrender.com/) |
 | [**Hanzi Trainer**](https://github.com/HGTNewCoder/chineseLearningApp) | Chinese character writing trainer: draw characters and get every stroke's shape, direction and order checked. 500 lessons covering HSK 1–6 (~5,000 words), spaced-repetition review, offline PWA with optional cloud sync. | React · TypeScript · Supabase | [Try it](https://chinese-learning-app-brown.vercel.app/) |
+| [**OmniVox**](https://github.com/HGTNewCoder/OmniVox) | Augmentative & alternative communication device for a patient with a speech impairment. Team lead; secured a $500 grant. | Raspberry Pi 5 · PyQt6 · Python | [Try it](https://omnivox-chi.vercel.app/) |
+| [**Waymaker**](https://github.com/BeCarful/navigator-private) | Wearable AI guide for blind & low-vision walkers. Runs on-device; I used TensorRT to cut inference latency **200 ms → 40 ms**. Built at KnightHacks. | Jetson Orin Nano · TensorRT · PyTorch | — |
+| [**Deforestation Detection**](https://github.com/HGTNewCoder/deforest_detection) | Semantic segmentation of illegal logging in Sentinel-1 SAR imagery of Central Kalimantan, Indonesia (F1 0.656, IoU 0.488). Published research from MIT BWSI. | PyTorch · DeepLabV3 · U-Net · EfficientNet-B4 | — |
+| [**LiveHealthy**](https://github.com/HGTNewCoder/LiveHealthy) | LLM-powered health & nutrition assistant with a hospital-finder map. | Flask · Vertex AI · Google Maps | [Try it](https://nutrition-llms.onrender.com/) |
+| [**MCAgent**](https://github.com/HGTNewCoder/MCAgent) | Two-agent LLM system that manages a Minecraft server: a Plugin Manager proposes changes, a Verifier checks them, and a deterministic orchestrator rolls back on failure. | Python · FastAPI | [Try it](https://mc-agent-ecru.vercel.app/) |
+
 
 ## 🛠️ Toolbox
 
