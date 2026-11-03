@@ -1,6 +1,7 @@
 # Hi, I'm Thinh Ha 👋
 
 **Freshman at Florida State University**
+
 ---
 
 ## 🚀 Featured projects
@@ -12,6 +13,7 @@
 | [**Deforestation Detection**](https://github.com/HGTNewCoder/deforest_detection) | Semantic segmentation of illegal logging in Sentinel-1 SAR imagery of Central Kalimantan, Indonesia (F1 0.656, IoU 0.488). Published research from MIT BWSI. | PyTorch · DeepLabV3 · U-Net · EfficientNet-B4 |
 | [**OmniVox**](https://github.com/HGTNewCoder/OmniVox) | Augmentative & alternative communication device for a patient with a speech impairment. Team lead; secured a $500 grant. | Raspberry Pi 5 · PyQt6 · Python |
 | [**LiveHealthy**](https://github.com/HGTNewCoder/LiveHealthy) · [live](https://nutrition-llms.onrender.com/) | LLM-powered health & nutrition assistant with a hospital-finder map. | Flask · Vertex AI · Google Maps |
+| [**Hanzi Trainer**](https://github.com/HGTNewCoder/chineseLearningApp) | Chinese character writing trainer: draw characters and get every stroke's shape, direction and order checked. 500 lessons covering HSK 1–6 (~5,000 words), spaced-repetition review, offline PWA with optional cloud sync. | React · TypeScript · Supabase |
 
 ## 🛠️ Toolbox
 
